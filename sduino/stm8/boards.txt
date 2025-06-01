@@ -1,6 +1,32 @@
 # See: http://code.google.com/p/arduino/wiki/Platforms
 
 menu.upload_method=Upload method
+
+
+##############################################################
+
+stm8s001.name=STM8S001 (8-pin)
+
+stm8s001.upload.tool=stm8flash
+stm8s001.upload.protocol=stlinkv2
+stm8s001.upload.mcu=stm8s001j3
+stm8s001.upload.maximum_size=8192
+stm8s001.upload.maximum_data_size=1024
+
+stm8s001.bootloader.tool=stm8flash
+
+stm8s001.build.mcu=STM8S001
+stm8s001.build.f_cpu=16000000L
+stm8s001.build.board=STM8S001
+stm8s001.build.core=sduino
+stm8s001.build.variant=stm8s001
+
+stm8s001.build.extra_flags=-DSTM8S001
+
+
+# meaningless variables just to keep the makefile happy
+stm8s001.upload.speed=1
+
 ##############################################################
 
 stm8sblue.name=STM8S103F3 Breakout Board
