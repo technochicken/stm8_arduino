@@ -1,9 +1,9 @@
 {
     "packages": [
         {
-            "name": "sduino",
-            "maintainer": "Michael Mayer",
-            "websiteURL": "https://tenbaht.github.io/sduino/",
+            "name": "sduino stm8s001j3 support",
+            "maintainer": "Christian Schaffner",
+            "websiteURL": "https://github.com/technochicken/stm8_arduino/",
             "email": "michael-mayer@gmx.de",
             "help": {
                 "online": "http://www.stm32duino.com/viewforum.php?f=52"
