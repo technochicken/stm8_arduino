@@ -34,10 +34,10 @@
                             "packager": "sduino"
                         }
                     ],
-                    "URL": "https://github.com/akashkapashia/stm8_arduino/releases/download/v0.5/v0.5.zip",
-                    "archiveFileName": "v0.5.zip",
-                    "checksum": "SHA-256:69af0a1b5322b6691f58fdbd49d21a915fc30a4b3b4609df5d7198fb41c2ef2f",
-                    "size": "2821588" 
+                    "URL": "https://github.com/technochicken/stm8_arduino/archive/refs/tags/feature-update.zip",
+                    "archiveFileName": "feature-update.zip",
+                    "checksum": "SHA-256:28a7f2a7c99fb740318890bb32cffb76baea5a5b0e1f72b3252c9a31a86e2807",
+                    "size": "5055951" 
                 }
             ],
             "tools" : [
