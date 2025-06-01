@@ -19,7 +19,8 @@
                         {"name": "STM8S105C6 Discovery Board"},
                         {"name": "STM8S105K4T6 Breakout Board"},
                         {"name": "sduino UNO (STM8S105K6)"},
-                        {"name": "sduino MB (STM8S208MBT6B)"}
+                        {"name": "sduino MB (STM8S208MBT6B)"},
+                        {"name": "STM8S001J3 bare-chip"}
                     ],
                     "toolsDependencies": [
                         {
